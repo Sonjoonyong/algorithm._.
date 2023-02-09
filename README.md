@@ -9,4 +9,4 @@ It’s a never-ending quest, a test of my mind.
 But I’ll keep trying, I’ll not give up the fight,
 For in this challenge, I see a path to light.
 
-1. baekjoon 9086 : (https://github.com/Sonjoonyong/algorithm._./blob/main/String.java)
+- 1. [baekjoon 9086] : (https://github.com/Sonjoonyong/algorithm._./blob/main/String.java)
