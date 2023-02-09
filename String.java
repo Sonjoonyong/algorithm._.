@@ -13,5 +13,5 @@ public class Main {
             sb.append(s.charAt(s.length()- 1) + "\n");
         }
         System.out.print(sb);
-    }
+    } 
 }
